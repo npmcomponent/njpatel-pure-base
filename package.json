@@ -1,0 +1,17 @@
+{
+  "name": "njpatel-pure-base",
+  "description": "A small CSS module for normalizing a page that you can use in every web project. http://purecss.io/base",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "normalize",
+    "base",
+    "css",
+    "yui"
+  ],
+  "styles": [
+    "base.css"
+  ],
+  "dependencies": {},
+  "license": "BSD"
+}
